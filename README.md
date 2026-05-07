@@ -1,5 +1,10 @@
 # Firebender - GTA V Enhanced
 
+Hi, this is my first GTA V Enhanced mod.
+I would really love feedback, bugs encountered and contributions from the community.
+I would also like to learn from you guys as well.
+So feel free to interact. :)
+
 ## Requirements
 - GTA V Enhanced (legal copy)
 - ScriptHookV by Alexander Blade
