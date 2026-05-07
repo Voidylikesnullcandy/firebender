@@ -31,7 +31,7 @@ Drop `Firebender.asi` into your GTA V root directory.
 | `L1 + Triangle` | Fire Spark |
 | `L1 + Circle` | Fire Grenade |
 
-> 💡 For the enable/disable combo, tap quickly — holding `L1` too long will open the weapon wheel.
+> 💡 For the enable/disable combo, tap quickly as holding `L1` too long will open the weapon wheel.
 
 ## Legal
 This mod uses only ScriptHookV's public scripting API.
