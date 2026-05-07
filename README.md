@@ -47,6 +47,7 @@ Drop `Firebender.asi` into your GTA V root directory.
 | GTAForums | Coming Soon |
 | LibertyCity | Coming Soon |
 | Reddit | Coming Soon |
+| Youtube | [Video](https://www.youtube.com/watch?v=aezPkwEFPqM) |
 
 ## Legal
 This mod uses only ScriptHookV's public scripting API.
