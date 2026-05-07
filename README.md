@@ -1,4 +1,4 @@
-# Firebender — GTA V Enhanced
+# Firebender - GTA V Enhanced
 
 ## Requirements
 - GTA V Enhanced (legal copy)
