@@ -45,7 +45,7 @@ Drop `Firebender.asi` into your GTA V root directory.
 | GTA5-Mods | [Download](https://www.gta5-mods.com/scripts/firebender-for-gta-v-enhanced) |
 | Nexus Mods | [Download](https://www.nexusmods.com/gta5enhanced/mods/892) |
 | GTAForums | Coming Soon |
-| LibertyCity | Coming Soon |
+| LibertyCity | [Download](https://libertycity.net/files/gta-5/237702-firebender.html) |
 | Reddit | Coming Soon |
 | Youtube | [Video](https://www.youtube.com/watch?v=aezPkwEFPqM) |
 
